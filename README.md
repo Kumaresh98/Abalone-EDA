@@ -1,6 +1,7 @@
 # Abalone-EDA
 From Abalone Dataset we get information :
-1.) male abalone age lies between 9 to 12 
+
+* 1.) male abalone age lies between 9 to 12 
 2.) female abalone age lies between 9 to 12 
 3.) infant abalone age lies between 6 to 9 
 4.) max survival age of abalone is 15 rings 
